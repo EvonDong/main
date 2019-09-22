@@ -19,7 +19,7 @@ public interface Model {
      */
     void setUserPrefs(ReadOnlyUserPrefs userPrefs);
 
-    /**
+    /**˙
      * Returns the user prefs.
      */
     ReadOnlyUserPrefs getUserPrefs();
