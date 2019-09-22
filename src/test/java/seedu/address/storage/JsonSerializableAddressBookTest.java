@@ -45,3 +45,4 @@ public class JsonSerializableAddressBookTest {
                 dataFromFile::toModelType);
     }
 }
+
